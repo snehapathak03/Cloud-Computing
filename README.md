@@ -4,7 +4,7 @@
 <h3>MODULE 1 — WHAT IS CLOUD COMPUTING:</h3> <p>Delivering computing services like servers, storage, databases, networking, 
 and software over the internet.Instead of buying expensive computers/servers physically, companies rent resources online.<br>
 <u>REAL-LIFE EXAMPLE</u>:Suppose you start a website->Without cloud:You buy server hardware,Setup networking,Handle cooling,Manage
- electricity,Repair hardware.<br>With cloud:You rent everything online instantly.That is cloud computing.
+ electricity,Repair hardware.<br>With cloud:You rent everything online instantly.That is cloud computing.<br>
 EASY EXAMPLE:Netflix uses cloud servers.Google Drive:Files stored online instead of your computer.That is cloud storage.<br>
 Cloud providers give:Servers,Storage,Databases,Networking,Security,Applications,through internet.</p><br>
 <h5>TOP CLOUD PROVIDERS</h5>
@@ -139,8 +139,8 @@ GBs in size				MBs in size</pre>
 Cloud providers combine:Virtualization,Containers,Networking,Automation,to provide services instantly.Example:When AWS 
 launches EC2:hypervisors create virtual machines.When Kubernetes runs applications:containers are used.</p>
 
-<pre>TASK 1 — INSTALL VIRTUALBOX->Install:Oracle VM VirtualBox Official Website
-TASK 2 — INSTALL UBUNTU ISO->Download Ubuntu ISO:Ubuntu Desktop Download
+<pre>TASK 1 — INSTALL VIRTUALBOX->Install:Oracle VM VirtualBox Official Website<br>
+TASK 2 — INSTALL UBUNTU ISO->Download Ubuntu ISO:Ubuntu Desktop Download<br>
 TASK 3 — CREATE YOUR FIRST VM->Inside VirtualBox:Create:Ubuntu VM. Give:4 GB RAM,2 CPU cores,25 GB storage
 TASK 4 — EXPLORE UBUNTU:Learn:terminal,settings,file system
 BASIC LINUX COMMANDS TO TRY->pwd,ls,cd,mkdir test,rm -r test
@@ -157,3 +157,152 @@ Q3.Which AWS service gives virtual machines?->Amazon EC2
  How cloud providers run thousands of servers
  What virtualization actually means
  Why containers changed DevOps completely</pre>
+ <h1>DAY 3 — LINUX FUNDAMENTALS FOR CLOUD & DEVOPS</h1>
+<h3>MODULE 1 — WHAT IS LINUX?</h3><p>Linux is an open-source operating system.Most cloud servers use Linux because:secure,lightweight,
+powerful,stable.</p>
+<h5>WHERE LINUX IS USED</h5><p>Linux powers:AWS servers,Google servers,Android,Supercomputers,DevOps infrastructure and Kubernetes.</p>
+<h5>POPULAR LINUX DISTRIBUTIONS</h5><pre>
+Distribution				Usage
+Ubuntu						Beginner friendly
+CentOS						Enterprise
+Debian						Stable servers
+Kali Linux					Security testing
+Red Hat Enterprise Linux	Corporate
+</pre>
+<p><u>Linux has:KERNEL-></u>Kernel is the core part of OS.It manages:CPU,RAM,Hardware,Processes.</p>
+<pre>LINUX ARCHITECTURE
+Applications
+↓
+Shell
+↓
+Kernel
+↓
+Hardware</pre>
+<h5>WHAT IS SHELL?</h5><p>Shell allows users to communicate with Linux.Most common shell:Bash</p>
+
+<h3>MODULE 2 — LINUX FILE SYSTEM</h3><p>
+Linux file system starts from:ROOT DIRECTORY[/]Everything exists under root.</p>
+
+<pre>IMPORTANT DIRECTORIES
+Directory	Purpose
+/home		User files
+/etc		Configuration files
+/var		Logs
+/bin		Commands
+/tmp		Temporary files
+/root		Root user home
+/dev		Devices
+UNDERSTANDING PATHS->Example:/home/sneha/documents
+/ → root
+home → directory
+sneha → user
+documents → folder</pre>
+
+<h3>MODULE 3 — ESSENTIAL LINUX COMMANDS</h3><p>
+1. pwd->Shows current directory.<br>
+2. ls->Lists files/folders.<br>
+Advanced:ls -l and ls -a<br>
+3. cd->Change directory.(cd /home)<br>
+Go back:cd ..<br>
+4. mkdir->Create folder.ex:mkdir projects<br>
+5. touch->Create file.ex:touch file.txt<br>
+6. rm->Delete files.ex:rm file.txt<br>
+Delete folder:rm -r projects<br>
+7. cp->Copy files.ex:cp file1.txt file2.txt<br>
+8. mv->Move or rename.ex:mv file.txt newfile.txt<br>
+9. cat->Display file content.ex:cat file.txt<br>
+10. clear->Clear terminal.</p>
+
+<h3>MODULE 4 — FILE PERMISSIONS</h3><p>
+Linux controls:who can read,write,execute<br><pre>
+PERMISSION TYPES
+Symbol	Meaning
+r		Read
+w		Write
+x		Execute</pre>
+
+VIEW PERMISSIONS:ls -l<br>
+Example:-rwxr-xr--<br>
+BREAKDOWN<br>
+Section	Meaning<br>
+rwx		Owner permissions<br>
+r-x		Group permissions<br>
+r--		Others permissions<br>
+
+chmod COMMAND:Change permissions.<br>
+chmod 755 file.sh<br>
+chown COMMAND:Change ownership.sudo chown user file.txt</p>
+
+<h3>MODULE 5 — USERS IN LINUX</h3><p>
+Linux is multi-user system.<br><br>
+
+CURRENT USER ->whoami<br>
+CREATE USER ->sudo adduser devops<br>
+SWITCH USER ->su username<br>
+ROOT USER  ->Admin user:full permissions<br>
+Command:sudo=>temporarily gives admin access.</p>
+
+<h3>MODULE 6 — PROCESS MANAGEMENT</h3><p>
+Processes = running programs.<br>
+VIEW RUNNING PROCESSES->top OR  ps aux<br>
+STOP PROCESS->kill process_id</p>
+
+<h3>MODULE 7 — MEMORY & STORAGE COMMANDS</h3><p>
+RAM USAGE->free -h<br>
+DISK USAGE->df -h<br>
+FOLDER SIZE->du -sh foldername</p>
+
+<h3>MODULE 8 — NETWORKING COMMANDS</h3><p>
+CHECK INTERNET->ping google.com<br>
+DOWNLOAD FILE->wget url<br>
+API TESTING->curl google.com<br>
+IP ADDRESS->ip a</p>
+
+<h3>MODULE 9 — PACKAGE MANAGERS</h3><p>
+Linux installs software using package managers.<br>
+UBUNTU<br>
+Uses:apt<br>
+Update packages:sudo apt update<br>
+Install software:sudo apt install nginx<br>
+CENTOS<br>
+Uses:yum</p>
+
+<h3>MODULE 10 — SSH (VERY IMPORTANT)</h3><p>
+SSH allows remote server access.<br>
+Cloud engineers use SSH daily.<br>
+CONNECT TO SERVER:ssh username@ip_address<br>
+Example:ssh ubuntu@54.123.11.20<br>
+WHY SSH IMPORTANT:AWS EC2 servers are managed mainly through SSH.</p>
+
+<pre>PRACTICAL TASKS
+TASK 1 — CREATE DIRECTORY STRUCTURE
+Create:projects,logs,scripts ->inside home folder.
+TASK 2 — CREATE FILES
+touch app.py
+touch notes.txt
+TASK 3 — PERMISSION PRACTICE
+Try:chmod 777 notes.txt  AND   chmod 755 app.py
+Understand differences.
+TASK 4 — INSTALL NGINX
+sudo apt update
+sudo apt install nginx
+Check browser:http://localhost
+TASK 5 — PROCESS CHECK
+Open:Firefox  /   Terminal
+Then run:top
+Observe processes.
+
+INTERVIEW QUESTIONS
+What is Linux?
+What is kernel?
+Difference between Linux and Ubuntu?
+What is root directory?
+What does chmod do?
+Difference between sudo and root?
+What is SSH?
+How to check running processes?
+MINI QUIZ
+Q1.Which command shows current directory?-->pwd
+Q2.Which command changes permissions?-->chmod
+Q3.Which command connects remote server?-->ssh
+</pre>
