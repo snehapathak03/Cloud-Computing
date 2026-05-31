@@ -157,6 +157,7 @@ Q3.Which AWS service gives virtual machines?->Amazon EC2
  How cloud providers run thousands of servers
  What virtualization actually means
  Why containers changed DevOps completely</pre>
+ 
  <h1>DAY 3 — LINUX FUNDAMENTALS FOR CLOUD & DEVOPS</h1>
 <h3>MODULE 1 — WHAT IS LINUX?</h3><p>Linux is an open-source operating system.Most cloud servers use Linux because:secure,lightweight,
 powerful,stable.</p>
