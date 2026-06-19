@@ -406,3 +406,121 @@ CHECK IP ADDRESS - ip a<br>
 CHECK OPEN PORTS - netstat -tulnp<br>
 TRACE NETWORK PATH - traceroute google.com<br>
 TEST WEBSITE - curl https://google.com </p>
+<pre>PRACTICAL TASKS
+TASK 1 — FIND YOUR IP
+
+Run:
+
+ip a
+
+Identify:
+
+local/private IP
+TASK 2 — TEST DNS
+
+Run:
+
+nslookup google.com
+TASK 3 — TEST CONNECTIVITY
+
+Run:
+
+ping google.com
+TASK 4 — INSTALL NGINX SERVER
+sudo apt install nginx
+
+Check:
+
+http://localhost
+TASK 5 — CHECK PORTS
+sudo netstat -tulnp
+
+Find:
+
+Port 80 for nginx
+YOUTUBE VIDEOS FOR TODAY
+Networking Basics
+
+Computer Networking Full Course - freeCodeCamp
+
+DNS Explained
+
+DNS Explained - TechQuickie
+
+HTTP vs HTTPS
+
+HTTP vs HTTPS Explained
+
+NOTES YOU MUST WRITE
+
+Write handwritten notes for:
+
+✅ IP Address
+✅ Public vs Private IP
+✅ DNS
+✅ Ports
+✅ TCP vs UDP
+✅ HTTP vs HTTPS
+✅ Firewalls
+✅ Load Balancers
+
+INTERVIEW QUESTIONS
+What is IP address?
+Difference between public and private IP?
+What is DNS?
+Difference between TCP and UDP?
+Difference between HTTP and HTTPS?
+What is firewall?
+What is load balancer?
+Why HTTPS is secure?
+MINI QUIZ
+Q1
+
+Which port does HTTPS use?
+
+Answer:
+
+443
+Q2
+
+Which protocol is faster:
+TCP or UDP?
+
+Answer:
+UDP
+
+Q3
+
+Which system converts domain names into IP addresses?
+
+Answer:
+DNS
+
+END OF DAY 4 GOAL
+
+By end of today you should:
+
+✅ Understand networking basics
+✅ Understand IP addressing
+✅ Understand DNS
+✅ Understand ports/protocols
+✅ Understand HTTP/HTTPS
+✅ Understand firewalls
+✅ Understand load balancers
+
+TOMORROW (DAY 5)
+
+You will learn:
+
+✅ Advanced Linux
+✅ SSH Deep Dive
+✅ File Compression
+✅ Systemctl & Services
+✅ Logs
+✅ Cron Jobs
+✅ Environment Variables
+✅ Real server administration basics
+
+This starts real system administration work used in AWS & DevOps.
+
+</pre>
