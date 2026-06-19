@@ -213,7 +213,6 @@ Delete folder:rm -r projects<br>
 8. mv->Move or rename.ex:mv file.txt newfile.txt<br>
 9. cat->Display file content.ex:cat file.txt<br>
 10. clear->Clear terminal.</p>
-
 <h3>MODULE 4 — FILE PERMISSIONS</h3><p>
 Linux controls:who can read,write,execute<br><pre>
 PERMISSION TYPES
@@ -221,7 +220,6 @@ Symbol	Meaning
 r		Read
 w		Write
 x		Execute</pre>
-
 VIEW PERMISSIONS:ls -l<br>
 Example:-rwxr-xr--<br>
 BREAKDOWN<br>
@@ -229,36 +227,29 @@ Section	Meaning<br>
 rwx		Owner permissions<br>
 r-x		Group permissions<br>
 r--		Others permissions<br>
-
 chmod COMMAND:Change permissions.<br>
 chmod 755 file.sh<br>
 chown COMMAND:Change ownership.sudo chown user file.txt</p>
-
 <h3>MODULE 5 — USERS IN LINUX</h3><p>
 Linux is multi-user system.<br><br>
-
 CURRENT USER ->whoami<br>
 CREATE USER ->sudo adduser devops<br>
 SWITCH USER ->su username<br>
 ROOT USER  ->Admin user:full permissions<br>
 Command:sudo=>temporarily gives admin access.</p>
-
 <h3>MODULE 6 — PROCESS MANAGEMENT</h3><p>
 Processes = running programs.<br>
 VIEW RUNNING PROCESSES->top OR  ps aux<br>
 STOP PROCESS->kill process_id</p>
-
 <h3>MODULE 7 — MEMORY & STORAGE COMMANDS</h3><p>
 RAM USAGE->free -h<br>
 DISK USAGE->df -h<br>
 FOLDER SIZE->du -sh foldername</p>
-
 <h3>MODULE 8 — NETWORKING COMMANDS</h3><p>
 CHECK INTERNET->ping google.com<br>
 DOWNLOAD FILE->wget url<br>
 API TESTING->curl google.com<br>
 IP ADDRESS->ip a</p>
-
 <h3>MODULE 9 — PACKAGE MANAGERS</h3><p>
 Linux installs software using package managers.<br>
 UBUNTU<br>
@@ -267,14 +258,12 @@ Update packages:sudo apt update<br>
 Install software:sudo apt install nginx<br>
 CENTOS<br>
 Uses:yum</p>
-
 <h3>MODULE 10 — SSH (VERY IMPORTANT)</h3><p>
 SSH allows remote server access.<br>
 Cloud engineers use SSH daily.<br>
 CONNECT TO SERVER:ssh username@ip_address<br>
 Example:ssh ubuntu@54.123.11.20<br>
 WHY SSH IMPORTANT:AWS EC2 servers are managed mainly through SSH.</p>
-
 <pre>PRACTICAL TASKS
 TASK 1 — CREATE DIRECTORY STRUCTURE
 Create:projects,logs,scripts ->inside home folder.
@@ -307,3 +296,15 @@ Q1.Which command shows current directory?-->pwd
 Q2.Which command changes permissions?-->chmod
 Q3.Which command connects remote server?-->ssh
 </pre>
+<h1>DAY 4 — NETWORKING FUNDAMENTALS FOR CLOUD & AWS</h1>
+<p>Today we will go through these topics <br>
+1]Internet basics<br>
+2]IP addresses<br>
+3]Public vs Private IP<br>
+4]DNS<br>
+5]Ports<br>
+6]HTTP vs HTTPS<br>
+7]Firewall<br>
+8]Routers & Switches<br>
+9]Load Balancers<br>
+10]Cloud networking basics</p>
