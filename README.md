@@ -383,3 +383,20 @@ REAL EXAMPLE:AWS Security Groups act like firewalls.<br>
 You can allow:SSH only, HTTPS only, etc.
 <h5>FIREWALL RULE EXAMPLE:</h5>
 Allow:Port 22 (SSH), Block:everything else</p>
+<h3>MODULE 10 — LOAD BALANCERS</h3><p>
+WHAT IS LOAD BALANCER? -> Distributes traffic among multiple servers.<br>
+WHY NEEDED?Suppose:10 lakh users visit website at a time and we have only one server it may get crash. So the Load balancer distributes traffic.<br>
+<h5>ARCHITECTURE</h5><pre>
+Users
+↓
+Load Balancer
+↓
+Server 1
+Server 2
+Server 3</pre>
+<h5>BENEFITS</h5>
+i]High availability <br>
+ii]Scalability <br>
+iii]Better performance <br>
+ix]Fault tolerance<br>
+AWS LOAD BALANCER:AWS service:Elastic Load Balancer (ELB)</p>
