@@ -320,3 +320,13 @@ Switch		Connects devices
 Firewall	Security filtering
 Server		Provides services
 Client		Requests services</pre>
+<h3>MODULE 2 — IP ADDRESS</h3>
+<p>Every device connected to network needs:IP Address.Like:Home address for devices.<br>Example:192.168.1.10 .<br>
+<u>TYPES OF IP ADDRESSES</u>
+<h5>1. PRIVATE IP:</h5>Used inside local network.Private IP cannot directly access internet.Examples:192.168.x.x<br>
+<h5>2. PUBLIC IP:</h5>Visible on internet.Assigned by ISP/cloud provider.Example:AWS EC2 public IP.<br>
+REAL EXAMPLE->At home:<br>
+Device	Private IP<br>
+Phone	192.168.1.5<br>
+Laptop	192.168.1.10<br>
+Router has:Public IP</p>
