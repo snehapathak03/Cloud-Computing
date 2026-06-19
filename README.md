@@ -371,3 +371,8 @@ TCP	                    UDP
 Reliable	            Faster
 Connection-oriented	    Connectionless
 More overhead	        Less overhead</pre></p>
+<h3>MODULE 8 — HTTP VS HTTPS</h3><p>
+HTTP:HyperText Transfer Protocol. Transfers website data.Not secure.Port:80<br>
+HTTPS:Secure HTTP.Uses:SSL/TLS encryption.Port:443 <br>
+WHY HTTPS IMPORTANT:<br>
+Protects:passwords, banking data, user information.</p>
