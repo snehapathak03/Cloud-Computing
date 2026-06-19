@@ -333,3 +333,7 @@ Router has:Public IP</p>
 <h3>MODULE 3 — IPV4 VS IPV6</h3><p>
 IPv4:32-bit address.Example:192.168.1.1 [Limited addresses].
 IPv6:128-bit address.Example:2001:db8::ff00:42:8329 [Huge number of addresses.]<br> Future internet uses IPv6 heavily.</p>
+<h3>MODULE 4 — SUBNETTING BASICS</h3><p>Subnetting divides network into smaller networks.<br>
+Purpose:better organization,security,efficiency.<br>
+EXAMPLE:Company may separate:HR network,Finance network,Server network, using subnets.<br>
+AWS CONNECTION:In AWS VPC:subnets are extremely important.</p>
