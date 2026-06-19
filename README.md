@@ -376,3 +376,10 @@ HTTP:HyperText Transfer Protocol. Transfers website data.Not secure.Port:80<br>
 HTTPS:Secure HTTP.Uses:SSL/TLS encryption.Port:443 <br>
 WHY HTTPS IMPORTANT:<br>
 Protects:passwords, banking data, user information.</p>
+<h3>MODULE 9 — FIREWALLS</h3><p>
+Firewall = Security gate for network traffic.<br>
+Controls:incoming traffic, outgoing traffic. <br>
+REAL EXAMPLE:AWS Security Groups act like firewalls.<br>
+You can allow:SSH only, HTTPS only, etc.
+<h5>FIREWALL RULE EXAMPLE:</h5>
+Allow:Port 22 (SSH), Block:everything else</p>
