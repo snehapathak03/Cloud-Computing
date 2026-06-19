@@ -337,3 +337,15 @@ IPv6:128-bit address.Example:2001:db8::ff00:42:8329 [Huge number of addresses.]<
 Purpose:better organization,security,efficiency.<br>
 EXAMPLE:Company may separate:HR network,Finance network,Server network, using subnets.<br>
 AWS CONNECTION:In AWS VPC:subnets are extremely important.</p>
+<h3>MODULE 5 — DNS (DOMAIN NAME SYSTEM)</h3><p>
+Humans remember:google.com <br> BUT Computers understand:142.250.183.14 <br>DNS converts:Domain → IP Address<br>
+<h5>DNS WORKFLOW</h5><pre>
+Browser
+↓
+DNS Server
+↓
+IP Address
+↓
+Website Server</pre>
+POPULAR DNS SERVICES:i]Google DNS ii]Cloudflare DNS iii]Amazon Route 53 <br>
+DNS COMMAND:nslookup google.com  OR  dig google.com</p>
