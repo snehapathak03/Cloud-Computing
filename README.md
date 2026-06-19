@@ -349,3 +349,14 @@ IP Address
 Website Server</pre>
 POPULAR DNS SERVICES:i]Google DNS ii]Cloudflare DNS iii]Amazon Route 53 <br>
 DNS COMMAND:nslookup google.com  OR  dig google.com</p>
+<h3>MODULE 6 — PORTS</h3><p>
+Ports are like:Doors of a computer.Different services use different ports.
+<h5>IMPORTANT PORTS</h5><pre>
+Port	Service
+22	    SSH
+80	    HTTP
+443	    HTTPS
+3306	MySQL
+8080	Web Apps</pre>
+EXAMPLE:When browser opens website:https://example.com <br>
+Uses:Port 443</p>
