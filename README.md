@@ -360,3 +360,14 @@ Port	Service
 8080	Web Apps</pre>
 EXAMPLE:When browser opens website:https://example.com <br>
 Uses:Port 443</p>
+<h3>MODULE 7 — TCP VS UDP</h3><p>
+TCP:Reliable connection.<br>
+Features:error checking, ordered delivery.<br>
+Used in:websites, banking, email.<br>
+UDP:Fast but unreliable.<br>
+Used in:gaming, video calls, streaming.
+<h5>DIFFERENCE</h5><pre>
+TCP	                    UDP
+Reliable	            Faster
+Connection-oriented	    Connectionless
+More overhead	        Less overhead</pre></p>
