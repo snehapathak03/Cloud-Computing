@@ -326,7 +326,10 @@ Client		Requests services</pre>
 <h5>1. PRIVATE IP:</h5>Used inside local network.Private IP cannot directly access internet.Examples:192.168.x.x<br>
 <h5>2. PUBLIC IP:</h5>Visible on internet.Assigned by ISP/cloud provider.Example:AWS EC2 public IP.<br>
 REAL EXAMPLE->At home:<br>
-Device	Private IP<br>
-Phone	192.168.1.5<br>
-Laptop	192.168.1.10<br>
+Device - Private IP<br>
+Phone - 192.168.1.5<br>
+Laptop - 192.168.1.10<br>
 Router has:Public IP</p>
+<h3>MODULE 3 — IPV4 VS IPV6</h3><p>
+IPv4:32-bit address.Example:192.168.1.1 [Limited addresses].
+IPv6:128-bit address.Example:2001:db8::ff00:42:8329 [Huge number of addresses.]<br> Future internet uses IPv6 heavily.</p>
