@@ -313,3 +313,10 @@ Q3.Which command connects remote server?-->ssh
 REAL-WORLD EXAMPLE:When you open:google.com.<br> 
 Your device:1]Finds Google server 2]Sends request and  3]Receives response. <br>
 All this happens using networking.</p>
+<h3>BASIC NETWORK COMPONENTS</h3><pre>
+Component	Purpose
+Router		Connects networks
+Switch		Connects devices
+Firewall	Security filtering
+Server		Provides services
+Client		Requests services</pre>
