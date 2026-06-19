@@ -400,3 +400,9 @@ ii]Scalability <br>
 iii]Better performance <br>
 ix]Fault tolerance<br>
 AWS LOAD BALANCER:AWS service:Elastic Load Balancer (ELB)</p>
+<h3>MODULE 11 — NETWORKING COMMANDS</h3><p>
+CHECK CONNECTIVITY- ping google.com <br>
+CHECK IP ADDRESS - ip a<br>
+CHECK OPEN PORTS - netstat -tulnp<br>
+TRACE NETWORK PATH - traceroute google.com<br>
+TEST WEBSITE - curl https://google.com </p>
