@@ -308,3 +308,8 @@ Q3.Which command connects remote server?-->ssh
 8]Routers & Switches<br>
 9]Load Balancers<br>
 10]Cloud networking basics</p>
+<h3>MODULE 1 — WHAT IS NETWORKING?</h3>
+<p>Networking means:Connecting devices so they can communicate.<br> Examples:Mobile ↔ Internet,Laptop ↔ AWS Server,Browser ↔ Website.<br>
+REAL-WORLD EXAMPLE:When you open:google.com.<br> 
+Your device:1]Finds Google server 2]Sends request and  3]Receives response. <br>
+All this happens using networking.</p>
