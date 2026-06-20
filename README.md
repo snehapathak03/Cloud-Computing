@@ -407,14 +407,14 @@ CHECK OPEN PORTS - netstat -tulnp<br>
 TRACE NETWORK PATH - traceroute google.com<br>
 TEST WEBSITE - curl https://google.com </p>
 <h3>PRACTICAL TASKS</h3><p>
-TASK 1 — FIND YOUR IP and Run:ip a .
-Identify:local/private IP
-TASK 2 — TEST DNS for that Run:nslookup google.com
-TASK 3 — TEST CONNECTIVITY for that Run:ping google.com
-TASK 4 — INSTALL NGINX SERVER -- sudo apt install nginx
-Check:http://localhost
-TASK 5 — CHECK PORTS
-sudo netstat -tulnp
+TASK 1 — FIND YOUR IP and Run:ip a .<br>
+Identify:local/private IP<br>
+TASK 2 — TEST DNS for that Run:nslookup google.com<br>
+TASK 3 — TEST CONNECTIVITY for that Run:ping google.com<br>
+TASK 4 — INSTALL NGINX SERVER -- sudo apt install nginx<br>
+Check:http://localhost<br>
+TASK 5 — CHECK PORTS<br>
+sudo netstat -tulnp<br>
 Find:Port 80 for nginx</p>
 <h5>YOUTUBE VIDEOS FOR TODAY<h5><p>
 Networking Basics<br>
