@@ -421,3 +421,13 @@ Networking Basics<br>
 Computer Networking Full Course - freeCodeCamp<br>
 DNS Explained - TechQuickie<br>
 HTTP vs HTTPs - HTTP vs HTTPS Explained</p>
+<h5>Study these topics and write notes on your own words:</h5><p>
+IP Address<br>
+Public vs Private IP<br>
+DNS<br>
+Ports<br>
+TCP vs UDP<br>
+HTTP vs HTTPS<br>
+Firewalls<br>
+Load Balancers</p>
+
