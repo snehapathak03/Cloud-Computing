@@ -439,3 +439,12 @@ Difference between HTTP and HTTPS?<br>
 What is firewall?<br>
 What is load balancer?<br>
 Why HTTPS is secure?</p>
+<h5>MINI QUIZ</h5><p>
+Q1 Which port does HTTPS use?<br>
+Answer:443<br>
+Q2 Which protocol is faster:TCP or UDP?<br>
+Answer:UDP<br>
+Q3 Which system converts domain names into IP addresses?<br>
+Answer:DNS</p>
+
+
