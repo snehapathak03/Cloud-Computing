@@ -430,4 +430,12 @@ TCP vs UDP<br>
 HTTP vs HTTPS<br>
 Firewalls<br>
 Load Balancers</p>
-
+<h5>INTERVIEW QUESTIONS</h5><p>
+What is IP address?<br>
+Difference between public and private IP?<br>
+What is DNS?<br>
+Difference between TCP and UDP?<br>
+Difference between HTTP and HTTPS?<br>
+What is firewall?<br>
+What is load balancer?<br>
+Why HTTPS is secure?</p>
