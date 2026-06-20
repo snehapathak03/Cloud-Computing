@@ -417,9 +417,7 @@ TASK 5 — CHECK PORTS
 sudo netstat -tulnp
 Find:Port 80 for nginx</p>
 <h5>YOUTUBE VIDEOS FOR TODAY<h5><p>
-Networking Basics
-Computer Networking Full Course - freeCodeCamp
-DNS Explained
-DNS Explained - TechQuickie
-HTTP vs HTTPS
-HTTP vs HTTPS Explained</p>
+Networking Basics<br>
+Computer Networking Full Course - freeCodeCamp<br>
+DNS Explained - TechQuickie<br>
+HTTP vs HTTPs - HTTP vs HTTPS Explained</p>
