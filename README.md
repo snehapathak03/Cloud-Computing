@@ -282,13 +282,13 @@ Open:Firefox  /   Terminal<br>
 Then run:top<br>
 Observe processes.</p>
 <h5>INTERVIEW QUESTIONS</h5><p>
-What is Linux?
-What is kernel?
-Difference between Linux and Ubuntu?
-What is root directory?
-What does chmod do?
-Difference between sudo and root?
-What is SSH?
+What is Linux?<br>
+What is kernel?<br>
+Difference between Linux and Ubuntu?<br>
+What is root directory?<br>
+What does chmod do?<br>
+Difference between sudo and root?<br>
+What is SSH?<br>
 How to check running processes?</p>
 
 
