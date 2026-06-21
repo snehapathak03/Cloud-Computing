@@ -264,38 +264,29 @@ Cloud engineers use SSH daily.<br>
 CONNECT TO SERVER:ssh username@ip_address<br>
 Example:ssh ubuntu@54.123.11.20<br>
 WHY SSH IMPORTANT:AWS EC2 servers are managed mainly through SSH.</p>
-<pre>PRACTICAL TASKS
-TASK 1 — CREATE DIRECTORY STRUCTURE
-Create:projects,logs,scripts ->inside home folder.
-TASK 2 — CREATE FILES
-touch app.py
-touch notes.txt
-TASK 3 — PERMISSION PRACTICE
-Try:chmod 777 notes.txt  AND   chmod 755 app.py
-Understand differences.
-TASK 4 — INSTALL NGINX
-sudo apt update
-sudo apt install nginx
-Check browser:http://localhost
-TASK 5 — PROCESS CHECK
-Open:Firefox  /   Terminal
-Then run:top
-Observe processes.
+<h5>PRACTICAL TASKS</h5><p>
+TASK 1 — CREATE DIRECTORY STRUCTURE<br>
+Create:projects,logs,scripts ->inside home folder.<br>
+TASK 2 — CREATE FILES<br>
+touch app.py<br>
+touch notes.txt<br>
+TASK 3 — PERMISSION PRACTICE<br>
+Try:chmod 777 notes.txt  AND   chmod 755 app.py<br>
+Understand differences.<br>
+TASK 4 — INSTALL NGINX<br>
+sudo apt update<br>
+sudo apt install nginx<br>
+Check browser:http://localhost<br>
+TASK 5 — PROCESS CHECK<br>
+Open:Firefox  /   Terminal<br>
+Then run:top<br>
+Observe processes.</p>
 
-INTERVIEW QUESTIONS
-What is Linux?
-What is kernel?
-Difference between Linux and Ubuntu?
-What is root directory?
-What does chmod do?
-Difference between sudo and root?
-What is SSH?
-How to check running processes?
-MINI QUIZ
-Q1.Which command shows current directory?-->pwd
-Q2.Which command changes permissions?-->chmod
-Q3.Which command connects remote server?-->ssh
-</pre>
+
+
+
+
+
 <h1>DAY 4 — NETWORKING FUNDAMENTALS FOR CLOUD & AWS</h1>
 <p>Today we will go through these topics <br>
 1]Internet basics<br>
