@@ -294,13 +294,6 @@ How to check running processes?</p>
 Q1.Which command shows current directory?-->pwd<br>
 Q2.Which command changes permissions?-->chmod<br>
 Q3.Which command connects remote server?-->ssh</p>
-
-
-
-
-
-
-
 <h1>DAY 4 — NETWORKING FUNDAMENTALS FOR CLOUD & AWS</h1>
 <p>Today we will go through these topics <br>
 1]Internet basics<br>
