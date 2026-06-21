@@ -291,8 +291,8 @@ Difference between sudo and root?<br>
 What is SSH?<br>
 How to check running processes?</p>
 <h5>MINI QUIZ</h5><p>
-Q1.Which command shows current directory?-->pwd
-Q2.Which command changes permissions?-->chmod
+Q1.Which command shows current directory?-->pwd<br>
+Q2.Which command changes permissions?-->chmod<br>
 Q3.Which command connects remote server?-->ssh</p>
 
 
