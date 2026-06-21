@@ -281,6 +281,16 @@ TASK 5 — PROCESS CHECK<br>
 Open:Firefox  /   Terminal<br>
 Then run:top<br>
 Observe processes.</p>
+<h5>INTERVIEW QUESTIONS</h5><p>
+What is Linux?
+What is kernel?
+Difference between Linux and Ubuntu?
+What is root directory?
+What does chmod do?
+Difference between sudo and root?
+What is SSH?
+How to check running processes?</p>
+
 
 
 
