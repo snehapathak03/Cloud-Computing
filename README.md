@@ -456,32 +456,32 @@ Answer:DNS</p>
 ✅ Basic server administration
 </p>
 <h3>MODULE 1 — SSH DEEP DIVE</h3><p>
-SSH =Secure Shell.Used for:remote server access.
-Cloud engineers use SSH daily to manage:AWS EC2,Linux servers,Cloud infrastructure.
-BASIC   SSH COMMAND:ssh     username@ip_address
-Example:ssh ubuntu@54.11.22.33
-HOW SSH WORKS:SSH creates-encrypted secure connection between your laptop and remote server.
-SSH KEY AUTHENTICATION :Instead of passwords SSH keys are used.
+SSH =Secure Shell.Used for:remote server access.<br>
+Cloud engineers use SSH daily to manage:AWS EC2,Linux servers,Cloud infrastructure.<br>
+BASIC   SSH COMMAND:ssh     username@ip_address<br>
+Example:ssh ubuntu@54.11.22.33<br>
+HOW SSH WORKS:SSH creates-encrypted secure connection between your laptop and remote server.<br>
+SSH KEY AUTHENTICATION :Instead of passwords SSH keys are used.<br>
 <pre>SSH KEY TYPES
 Key	             Purpose
 Public Key	     Stored on server
 Private Key	     Stored on your laptop</pre>
-GENERATE SSH KEY:ssh-keygen
-Files created(this two comment is used):id_rsa
-id_rsa.pub
-COPY SSH KEY :ssh-copy-id user@server-ip
-AWS CONNECTION :When launching Amazon EC2 , AWS gives .pem key file which is used for SSH access.
+GENERATE SSH KEY:ssh-keygen<br>
+Files created(this two comment is used):id_rsa<br>
+id_rsa.pub<br>
+COPY SSH KEY :ssh-copy-id user@server-ip<br>
+AWS CONNECTION :When launching Amazon EC2 , AWS gives .pem key file which is used for SSH access.<br>
 CONNECT TO AWS EC2:ssh -i mykey.pem ubuntu@public-ip</p>
 <h3>MODULE 2 — SYSTEMD & SERVICES</h3><p>
-Linux runs background programs called:Services.
-Examples:nginx, mysql, docker and SYSTEMD.
-Modern Linux systems use:systemd(to manage services).
-MAIN COMMAND:systemctl
-CHECK SERVICE STATUS:systemctl status nginx
-START SERVICE:sudo systemctl start nginx
-STOP SERVICE:sudo systemctl stop nginx
-RESTART SERVICE:sudo systemctl restart nginx
-ENABLE SERVICE AT BOOT:sudo systemctl enable nginx
-WHY IMPORTANT?
-In DevOps:services constantly fail/restart/update.You must manage them efficiently.
+Linux runs background programs called:Services.<br>
+Examples:nginx, mysql, docker and SYSTEMD.<br>
+Modern Linux systems use:systemd(to manage services).<br>
+MAIN COMMAND:systemctl<br>
+CHECK SERVICE STATUS:systemctl status nginx<br>
+START SERVICE:sudo systemctl start nginx<br>
+STOP SERVICE:sudo systemctl stop nginx<br>
+RESTART SERVICE:sudo systemctl restart nginx<br>
+ENABLE SERVICE AT BOOT:sudo systemctl enable nginx<br>
+WHY IMPORTANT?<br>
+In DevOps:services constantly fail/restart/update.You must manage them efficiently.</p>
 
