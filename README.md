@@ -444,7 +444,7 @@ Q2 Which protocol is faster:TCP or UDP?<br>
 Answer:UDP<br>
 Q3 Which system converts domain names into IP addresses?<br>
 Answer:DNS</p>
-<h3>DAY 5 — ADVANCED LINUX & SERVER ADMINISTRATION</h3><p>
+<h1>DAY 5 — ADVANCED LINUX & SERVER ADMINISTRATION</h1><p>
 ✅ SSH deeply<br>
 ✅ Linux services<br>
 ✅ systemctl<br>
@@ -455,3 +455,20 @@ Answer:DNS</p>
 ✅ Process management<br>
 ✅ Basic server administration
 </p>
+<h3>MODULE 1 — SSH DEEP DIVE</h3><p>
+SSH =Secure Shell.Used for:remote server access.
+Cloud engineers use SSH daily to manage:AWS EC2,Linux servers,Cloud infrastructure.
+BASIC   SSH COMMAND:ssh     username@ip_address
+Example:ssh ubuntu@54.11.22.33
+HOW SSH WORKS:SSH creates-encrypted secure connection between your laptop and remote server.
+SSH KEY AUTHENTICATION :Instead of passwords SSH keys are used.
+<pre>SSH KEY TYPES
+Key	             Purpose
+Public Key	     Stored on server
+Private Key	     Stored on your laptop</pre>
+GENERATE SSH KEY:ssh-keygen
+Files created(this two comment is used):id_rsa
+id_rsa.pub
+COPY SSH KEY :ssh-copy-id user@server-ip
+AWS CONNECTION :When launching Amazon EC2 , AWS gives .pem key file which is used for SSH access.
+CONNECT TO AWS EC2:ssh -i mykey.pem ubuntu@public-ip</p>
