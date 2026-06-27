@@ -444,5 +444,14 @@ Q2 Which protocol is faster:TCP or UDP?<br>
 Answer:UDP<br>
 Q3 Which system converts domain names into IP addresses?<br>
 Answer:DNS</p>
-
-
+<h3>DAY 5 — ADVANCED LINUX & SERVER ADMINISTRATION</h3><p>
+✅ SSH deeply<br>
+✅ Linux services<br>
+✅ systemctl<br>
+✅ Logs<br>
+✅ Cron Jobs<br>
+✅ Environment Variables<br>
+✅ File compression<br>
+✅ Process management<br>
+✅ Basic server administration
+</p>
