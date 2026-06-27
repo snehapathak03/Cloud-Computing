@@ -472,3 +472,16 @@ id_rsa.pub
 COPY SSH KEY :ssh-copy-id user@server-ip
 AWS CONNECTION :When launching Amazon EC2 , AWS gives .pem key file which is used for SSH access.
 CONNECT TO AWS EC2:ssh -i mykey.pem ubuntu@public-ip</p>
+<h3>MODULE 2 — SYSTEMD & SERVICES</h3><p>
+Linux runs background programs called:Services.
+Examples:nginx, mysql, docker and SYSTEMD.
+Modern Linux systems use:systemd(to manage services).
+MAIN COMMAND:systemctl
+CHECK SERVICE STATUS:systemctl status nginx
+START SERVICE:sudo systemctl start nginx
+STOP SERVICE:sudo systemctl stop nginx
+RESTART SERVICE:sudo systemctl restart nginx
+ENABLE SERVICE AT BOOT:sudo systemctl enable nginx
+WHY IMPORTANT?
+In DevOps:services constantly fail/restart/update.You must manage them efficiently.
+
