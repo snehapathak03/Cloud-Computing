@@ -109,6 +109,14 @@ Interview Answer:Traditional infrastructure requires purchasing and maintaining 
 whereas cloud infrastructure provides virtual resources over the internet with on-demand access and 
 pay-as-you-go pricing.
 </p>
+<p>7. What is a Server?
+Answer:A Server is a computer that provides services, data, or resources to other computers (called clients) 
+over a network.Examples:When you open:YouTube,Gmail or Instagram.Your request goes to a server.
+The server sends back:Videos,Images,Web pages,Files.
+TYPES OF SERVER:Web Server,Database Server,File Server,Mail Server,Application Server,DNS Server.
+AWS Example:An Amazon EC2 instance is a virtual server.
+A server is a computer that stores data and provides services to other computers over a network.
+</p>
 
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
 <h3>MODULE 1 — WHAT IS VIRTUALIZATION</h3><p>
