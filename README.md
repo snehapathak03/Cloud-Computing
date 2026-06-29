@@ -68,11 +68,27 @@ Launched in 2006, AWS is the world's largest cloud platform.AWS PROVIDES:Virtual
 Monitoring,Developer Tools.<br> POPULAR AWS SERVICES:Amazon EC2,Amazon S3,Amazon RDS,AWS Lambda,Amazon VPC,IAM,CloudWatch,Route 53.AWS currently offers hundreds of cloud services.<br>COMPANIES USING AWS:Many large companies use AWS, including:Netflix,Airbnb,Samsung,Adobe,NASA,Twitch,Disney,BMW.<br>
 WHY AWS IS POPULAR:Largest cloud provider,Global infrastructure,High security,Reliable,Cost-effective,Easy scalability,Hundreds of services.<br>
 AWS (Amazon Web Services) is Amazon's cloud computing platform that provides on-demand services like servers, storage, networking, databases, security,
- and AI over the internet with a pay-as-you-go pricing model.<br>
-2.Which cloud model gives complete software online?SaaS<br>
+ and AI over the internet with a pay-as-you-go pricing model.<br></p>
+<p>2.Which cloud model gives complete software online?SaaS<br>
 3.Which company launched AWS?Amazon<br>
 4.Which service model gives virtual machines?IaaS<br>
 </p>
+<p>What cloud computing actually is?<br>
+Answer:Cloud Computing is the delivery of computing services such as servers, storage, databases, networking,software, analytics, and artificial intelligence<br>
+over the internet ("the cloud") instead of using your own physical computer or data center.Instead of buying expensive hardware and maintaining it yourself, <br>
+you rent these resources from a cloud provider whenever you need them.In short it meas Cloud Computing means using someone else's computers (servers) over the <br>
+internet to store data, run applications, and perform computing tasks.Imagine you want to store your photos.Traditional Method is that u will Buy a hard drive,<br>
+Store photos locally.If hard drive crashes → Data will get lost. where as Cloud Method will Use services like:Google Drive,OneDrive,Dropbox.AWS Cloud Storage:
+Your files remain safe on remote servers.Cloud Providers:Major cloud providers include:Amazon Web Services (AWS),Microsoft Azure,Google Cloud Platform (GCP),<br>
+IBM Cloud,Oracle Cloud.AWS is the world's largest cloud provider.Services Provided by Cloud Computing are :Computing power,Virtual servers,Databases,Storage,<br>
+Networking,Security,AI & Machine Learning,Analytics.
+Characteristics of Cloud Computing:On-demand service,Internet-based,Pay only for what you use,Scalable,Highly 
+available,Secure,Fast deployment.
+Advantages:No hardware purchase,Lower cost,Accessible from anywhere,Automatic backups,High availability,
+Easy scalability.
+Cloud Computing is the delivery of computing services like servers, storage, databases, networking, and 
+software over the internet. Instead of owning physical infrastructure, users rent resources from cloud providers
+and pay only for what they use.</p>
 
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
 <h3>MODULE 1 — WHAT IS VIRTUALIZATION</h3><p>
