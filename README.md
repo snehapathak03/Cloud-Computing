@@ -61,19 +61,17 @@ Cloud providers have huge data centers worldwide.Inside data centers:Servers,Coo
 
 REAL-WORLD USE CASES-->Banking,Online banking apps,Fraud detection,Healthcare,Patient records,AI diagnosis,
 E-commerce,Amazon,Flipkart,Entertainment,Netflix,Spotify.</p>
-
-<p>WHat is the differences between aws,azure, google cloud ?<br>
-What is cloud computing?<br>
-Why companies use cloud?<br>
-What is scalability?<br>
-Difference between traditional IT and cloud.<br>
-Draw architecture diagram:User → Internet → Cloud Provider → Servers → Database<br>
-Create accounts:AWS Free Tier,GitHub<br>
-YOUTUBE:1.AWS Cloud Computing Full Course - freeCodeCamp.2.Cloud Computing Explained - TechWorld with Nana<br>
-MINI QUIZ<br>
-Q1.Which cloud model gives complete software online?->SaaS<br>
-Q2.Which company launched AWS?->Amazon<br>
-Q3.Which service model gives virtual machines?->IaaS
+<h3>INTERVIEW QUESTIONS:</h3>
+<p>1 What is AWS?<br>
+Anwer:AWS (Amazon Web Services) is the cloud computing platform provided by Amazon.It allows businesses and individuals to rent IT resources over the internet.<br>
+Launched in 2006, AWS is the world's largest cloud platform.AWS PROVIDES:Virtual Servers,Storage,Databases,Networking,Security,Machine Learning,AI Services,Analytics
+Monitoring,Developer Tools.<br> POPULAR AWS SERVICES:Amazon EC2,Amazon S3,Amazon RDS,AWS Lambda,Amazon VPC,IAM,CloudWatch,Route 53.AWS currently offers hundreds of cloud services.<br>COMPANIES USING AWS:Many large companies use AWS, including:Netflix,Airbnb,Samsung,Adobe,NASA,Twitch,Disney,BMW.<br>
+WHY AWS IS POPULAR:Largest cloud provider,Global infrastructure,High security,Reliable,Cost-effective,Easy scalability,Hundreds of services.<br>
+AWS (Amazon Web Services) is Amazon's cloud computing platform that provides on-demand services like servers, storage, networking, databases, security,
+ and AI over the internet with a pay-as-you-go pricing model.<br>
+2.Which cloud model gives complete software online?SaaS<br>
+3.Which company launched AWS?Amazon<br>
+4.Which service model gives virtual machines?IaaS<br>
 </p>
 
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
