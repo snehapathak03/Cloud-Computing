@@ -119,6 +119,20 @@ Answer:A Data Center is a building that contains thousands of servers, storage d
 Cloud providers store all their servers inside data centers.A Data Center Contains:Servers,Storage,Routers,Switches,Firewalls,Backup Systems,Cooling Systems,<br>
 Power Supply.AWS Data Centers:AWS has hundreds of data centers worldwide.These are grouped into:Regions,Availability Zones.<br>
 A data center is a facility that houses servers, networking equipment, storage devices, power systems, and cooling systems used to provide computing services.</p>
+<p>9. What are the Advantages of AWS?<br>
+Answer:Major advantages include:<br>
+1. No Hardware Purchase:Everything is virtual.<br>
+2. Pay-as-you-go:Pay only for what you use.<br>
+3. High Availability:AWS provides multiple data centers across the world.<br>
+4. Scalability:Increase or decrease resources anytime.<br>
+5. Global Presence:Available in many geographic regions worldwide.<br>
+6. Security:Offers:IAM,Encryption,Firewalls,Security Groups<br>
+7. Reliability:Provides high uptime.<br>
+8. Backup & Disaster Recovery:Easy automated backups.<br>
+9. Large Number of Services:Offers hundreds of cloud services.<br>
+10. Fast Deployment:Launch a server within minutes.<br>
+AWS offers scalability, security, high availability, global infrastructure, pay-as-you-go pricing, 
+reliability, and a wide range of cloud services.</p>
 
 
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
