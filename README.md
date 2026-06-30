@@ -89,25 +89,22 @@ Easy scalability.
 Cloud Computing is the delivery of computing services like servers, storage, databases, networking, and 
 software over the internet. Instead of owning physical infrastructure, users rent resources from cloud providers
 and pay only for what they use.</p>
-<p>6.Difference between traditional IT and cloud Infrastructure.
-Answer:
-Traditional Infrastructure		Cloud Infrastructure
+<p>6.Difference between traditional IT and cloud Infrastructure.<pre>
+Traditional Infrastructure		    Cloud Infrastructure
 Physical servers owned by company	Virtual servers rented from cloud provider
-High initial investment		No upfront investment
-Slow deployment			Deploy within minutes
-Manual maintenance		Managed by provider
-Fixed capacity			Easily scalable
-Hardware purchase required		No hardware purchase
-Limited availability			Global availability
-Pay before use			Pay after use
-Disaster recovery expensive		Built-in disaster recovery
-Difficult to expand			Very easy to expand
-Example
-Traditional:Company buys:Servers,Storage,Networking,Cooling,Electricity
-Cloud:Company creates a virtual server on AWS in minutes.
-Interview Answer:Traditional infrastructure requires purchasing and maintaining physical hardware, 
-whereas cloud infrastructure provides virtual resources over the internet with on-demand access and 
-pay-as-you-go pricing.
+High initial investment		        No upfront investment
+Slow deployment			            Deploy within minutes
+Manual maintenance		            Managed by provider
+Fixed capacity			            Easily scalable
+Hardware purchase required		    No hardware purchase
+Limited availability			    Global availability
+Pay before use			            Pay after use
+Disaster recovery expensive		    Built-in disaster recovery
+Difficult to expand			        Very easy to expand</pre>
+Example:<br>
+Traditional:Company buys:Servers,Storage,Networking,Cooling,Electricity.<br>
+Cloud:Company creates a virtual server on AWS in minutes.<br>
+Traditional infrastructure requires purchasing and maintaining physical hardware,whereas cloud infrastructure provides virtual resources over the internet with on-demand access and pay-as-you-go pricing.
 </p>
 <p>7. What is a Server?
 Answer:A Server is a computer that provides services, data, or resources to other computers (called clients) 
