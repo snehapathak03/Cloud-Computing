@@ -140,6 +140,13 @@ Allows businesses to focus on product development instead of managing hardware.<
 Example:Suppose an e-commerce website gets many visitors during a sale.With AWS:Servers automatically increase during peak traffic.<br>
 Servers automatically decrease after the sale.This saves money and maintains performance.Companies prefer AWS because it reduces costs, provides scalability,<br>
  enhances security, improves reliability, enables faster deployment, and allows businesses to pay only for the resources they use.</p>
+ <p>11. What is Scalability?<br>
+Answer:Scalability is the ability to increase or decrease computing resources based on workload or demand.Types of Scalability:<br>
+Vertical Scaling (Scale Up/Down):Increase or decrease the capacity of a single server.Examples:Add more CPU,Add more RAM,Increase storage.<br>
+Horizontal Scaling (Scale Out/In):Add or remove multiple servers.Example:One server → Five servers.<br>
+Real-Life Example:A shopping website receives many visitors during a festival.AWS automatically:Adds more servers during high traffic.<br>
+Removes extra servers when traffic decreases.Scalability is the ability to increase or decrease computing resources according to demand, ensuring applications <br>
+perform efficiently while controlling costs.</p>
 
 
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
