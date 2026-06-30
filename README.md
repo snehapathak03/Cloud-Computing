@@ -114,6 +114,12 @@ TYPES OF SERVER:Web Server,Database Server,File Server,Mail Server,Application S
 AWS Example:An Amazon EC2 instance is a virtual server.
 A server is a computer that stores data and provides services to other computers over a network.
 </p>
+<p>8. What is a Data Center?<br>
+Answer:A Data Center is a building that contains thousands of servers, storage devices, networking equipment,power systems, and cooling systems.<br>
+Cloud providers store all their servers inside data centers.A Data Center Contains:Servers,Storage,Routers,Switches,Firewalls,Backup Systems,Cooling Systems,<br>
+Power Supply.AWS Data Centers:AWS has hundreds of data centers worldwide.These are grouped into:Regions,Availability Zones.<br>
+A data center is a facility that houses servers, networking equipment, storage devices, power systems, and cooling systems used to provide computing services.</p>
+
 
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
 <h3>MODULE 1 — WHAT IS VIRTUALIZATION</h3><p>
