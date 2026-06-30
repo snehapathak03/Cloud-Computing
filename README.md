@@ -133,6 +133,13 @@ Answer:Major advantages include:<br>
 10. Fast Deployment:Launch a server within minutes.<br>
 AWS offers scalability, security, high availability, global infrastructure, pay-as-you-go pricing, 
 reliability, and a wide range of cloud services.</p>
+<p>10. Why Do Companies Prefer AWS?<br>
+Answer:Companies choose AWS because it:Reduces infrastructure cost,Eliminates hardware maintenance,Offers high security,Supports automatic scaling,<br>
+Provides global infrastructure,Enables faster application deployment,Offers many managed services,Ensures high availability,Supports backup and disaster recovery.<br>
+Allows businesses to focus on product development instead of managing hardware.<br>
+Example:Suppose an e-commerce website gets many visitors during a sale.With AWS:Servers automatically increase during peak traffic.<br>
+Servers automatically decrease after the sale.This saves money and maintains performance.Companies prefer AWS because it reduces costs, provides scalability,<br>
+ enhances security, improves reliability, enables faster deployment, and allows businesses to pay only for the resources they use.</p>
 
 
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
