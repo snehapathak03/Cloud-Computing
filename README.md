@@ -162,6 +162,15 @@ Database		            Managed relational and NoSQL databases		Amazon RDS
 Networking	                Connect cloud resources securely		    Amazon VPC
 Security & Identity	        Manage users, permissions, and access		IAM
 </pre></p>
+<p>14. What is Azure?<br>
+Answer:Microsoft Azure is the cloud computing platform developed by Microsoft. It provides cloud services such as virtual machines, storage, databases,<br>
+ networking, AI, analytics, and security over the internet.Azure allows organizations to build, deploy, and manage applications without owning physical <br>
+hardware.It was lanuched in 2010.<br>
+AZURE SERVICES:Azure Virtual Machines (VM),Azure Blob Storage,Azure SQL Database,Azure Virtual Network(VNet),Azure Functions,Azure Active Directory (Azure AD),Azure Kubernetes Service (AKS).<br>
+ADVANTAGES:Easy integration with Windows and Microsoft products,Strong security,Hybrid cloud support,Global data centers,Pay-as-you-go pricing.<br>
+COMPANIES THAT USE AZURE:Microsoft,LinkedIn,HP,Samsung,Adobe,Walmart.<br>
+Microsoft Azure is Microsoft's cloud computing platform that provides services like virtual machines, storage,databases, networking, AI, and security over the <br>
+internet on a pay-as-you-go basis.</p>
 
 
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
