@@ -147,6 +147,12 @@ Horizontal Scaling (Scale Out/In):Add or remove multiple servers.Example:One ser
 Real-Life Example:A shopping website receives many visitors during a festival.AWS automatically:Adds more servers during high traffic.<br>
 Removes extra servers when traffic decreases.Scalability is the ability to increase or decrease computing resources according to demand, ensuring applications <br>
 perform efficiently while controlling costs.</p>
+<p>12. What is Pay-as-you-go Pricing?<br>
+Answer:Pay-as-you-go means you pay only for the cloud resources you actually use.There are:No upfront investment,No long-term commitment (for many services),<br>
+No payment for unused resources.Example:Suppose you run a virtual server for:10 hours → Pay for 10 hours.100 GB storage → Pay only for 100 GB.<br>
+If you stop using the resources, the charges stop for usage-based services (though some allocated resources like storage may continue to incur charges until <br>
+deleted).BENEFITS:Saves money,Flexible,No hardware cost,Ideal for startups,Easy budgeting.<br>
+Pay-as-you-go pricing means customers pay only for the cloud resources they consume instead of purchasing expensive hardware upfront.</p>
 
 
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
