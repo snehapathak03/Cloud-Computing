@@ -178,8 +178,6 @@ POPULAR GCP SERVICES:Compute Engine,Cloud Storage,Cloud SQL,Google Kubernetes En
 ADVAMTAGES:Excellent AI and Machine Learning services,High-speed global network,Strong data analytics,Cost-effective,High reliability.<br>
 COMPANIES THAT USE GCP:Spotify,Snapchat,PayPal,Twitter (X)(for some workloads),Toyota.<br>
 Google Cloud Platform (GCP) is Google's cloud platform that provides computing, storage, networking, AI, databases, and analytics services over the internet.</p>
-
-
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
 <h3>MODULE 1 — WHAT IS VIRTUALIZATION</h3><p>
 THE MAIN PROBLEM BEFORE VIRTUALIZATION WAS:Earlier:One company bought:1 physical server.But used:only 10–20% power.<br>
