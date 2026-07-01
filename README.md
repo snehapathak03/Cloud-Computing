@@ -153,6 +153,15 @@ No payment for unused resources.Example:Suppose you run a virtual server for:10 
 If you stop using the resources, the charges stop for usage-based services (though some allocated resources like storage may continue to incur charges until <br>
 deleted).BENEFITS:Saves money,Flexible,No hardware cost,Ideal for startups,Easy budgeting.<br>
 Pay-as-you-go pricing means customers pay only for the cloud resources they consume instead of purchasing expensive hardware upfront.</p>
+<p>13. What are the Five Basic Services Provided by AWS?<br>
+The five foundational categories of AWS services are:<pre>
+Service Category	        Purpose					                    Example AWS Service
+Compute		                Run applications and virtual servers		Amazon EC2
+Storage		                Store files and objects			            Amazon S3
+Database		            Managed relational and NoSQL databases		Amazon RDS
+Networking	                Connect cloud resources securely		    Amazon VPC
+Security & Identity	        Manage users, permissions, and access		IAM
+</pre></p>
 
 
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
