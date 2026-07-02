@@ -229,6 +229,11 @@ ADVANTAGES:Flexibility,Cost optimization,Enhanced security.</p>
       |   Database     |
       | MySQL / SQL    |
       +----------------+</pre></p>
+<p>19. Types of Cloud:There are three deployment models:<br><pre>
+Type		    Description
+Public Cloud	Shared infrastructure provided over the internet
+Private Cloud	Dedicated infrastructure for one organization
+Hybrid Cloud	Combination of Public and Private Cloud</pre></p>      
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
 <h3>MODULE 1 — WHAT IS VIRTUALIZATION</h3><p>
 THE MAIN PROBLEM BEFORE VIRTUALIZATION WAS:Earlier:One company bought:1 physical server.But used:only 10–20% power.<br>
