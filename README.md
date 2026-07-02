@@ -194,6 +194,16 @@ Strength		    Largest service portfolio	Hybrid cloud		            AI & Analytics
 AWS → Largest cloud provider with the widest range of services.<be>
 Azure → Best for organizations using Microsoft technologies.<br>
 GCP → Best for Artificial Intelligence, Machine Learning, and Big Data.</p>
+<p>17. Define Public Cloud, Private Cloud, and Hybrid Cloud<br>
+A) Public Cloud:A cloud where computing resources are owned and managed by a third-party provider and shared among multiple customers over the internet.<br>
+Examples:AWS,Azure,Google Cloud.<br>
+ADVANTAGES:Low cost,Highly scalable,No hardware maintenance.<br>
+B) Private Cloud:A cloud infrastructure dedicated to a single organization. It can be hosted on-premises or by a third-party provider.<br>
+Example:A bank maintaining its own private cloud for customer data.<br>
+ADVANTAGES:High security,Greater control,Better compliance.<br>
+C) Hybrid Cloud:A combination of Public Cloud and Private Cloud, allowing data and applications to move between them.<br>
+Example:A hospital storing patient records in a private cloud while hosting its public website on AWS.<br>
+ADVANTAGES:Flexibility,Cost optimization,Enhanced security.</p>
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
 <h3>MODULE 1 — WHAT IS VIRTUALIZATION</h3><p>
 THE MAIN PROBLEM BEFORE VIRTUALIZATION WAS:Earlier:One company bought:1 physical server.But used:only 10–20% power.<br>
