@@ -204,6 +204,31 @@ ADVANTAGES:High security,Greater control,Better compliance.<br>
 C) Hybrid Cloud:A combination of Public Cloud and Private Cloud, allowing data and applications to move between them.<br>
 Example:A hospital storing patient records in a private cloud while hosting its public website on AWS.<br>
 ADVANTAGES:Flexibility,Cost optimization,Enhanced security.</p>
+<p>18. Cloud Architecture Diagram<pre>
+                +----------------+
+                |      User      |
+                +----------------+
+                        |
+                        |
+                  Internet
+                        |
+                        |
+        +-----------------------------+
+        |      Cloud Provider         |
+        | (AWS / Azure / GCP)         |
+        +-----------------------------+
+              |               |
+              |               |
+      +---------------+   +---------------+
+      |    Servers    |   |   Storage     |
+      | (Virtual VMs) |   | (Cloud Files) |
+      +---------------+   +---------------+
+              |
+              |
+      +----------------+
+      |   Database     |
+      | MySQL / SQL    |
+      +----------------+</pre></p>
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
 <h3>MODULE 1 — WHAT IS VIRTUALIZATION</h3><p>
 THE MAIN PROBLEM BEFORE VIRTUALIZATION WAS:Earlier:One company bought:1 physical server.But used:only 10–20% power.<br>
