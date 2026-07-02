@@ -233,7 +233,16 @@ ADVANTAGES:Flexibility,Cost optimization,Enhanced security.</p>
 Type		    Description
 Public Cloud	Shared infrastructure provided over the internet
 Private Cloud	Dedicated infrastructure for one organization
-Hybrid Cloud	Combination of Public and Private Cloud</pre></p>      
+Hybrid Cloud	Combination of Public and Private Cloud</pre></p> 
+<p>20. IaaS, PaaS, and SaaS<br>
+A) IaaS (Infrastructure as a Service):Provides virtual infrastructure such as servers, storage, networking, and operating systems.The customer manages the operating system and applications.<br>Examples:Amazon EC2,Azure Virtual Machines,Google Compute Engine.<br>
+USES:Hosting applications,Testing,Development,Disaster recovery.<br>
+B) PaaS (Platform as a Service):Provides a complete platform for developing, testing, and deploying applications 
+without managing the underlying infrastructure.<br>
+Examples:Google App Engine,Azure App Service,AWS Elastic Beanstalk.<br>
+USES:Application development,API development,Web applications.<br>
+C) SaaS (Software as a Service):Provides ready-to-use software over the internet.Users simply log in and use the software.<br>
+Examples:Gmail,Microsoft 365,Google Docs,Zoom,Salesforce.</p>     
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
 <h3>MODULE 1 — WHAT IS VIRTUALIZATION</h3><p>
 THE MAIN PROBLEM BEFORE VIRTUALIZATION WAS:Earlier:One company bought:1 physical server.But used:only 10–20% power.<br>
