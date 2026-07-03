@@ -281,7 +281,9 @@ Network			Connects computers and cloud resources
 Scalability			Ability to increase or decrease resources
 Elasticity			Automatic scaling based on demand
 Pay-as-you-go		Pay only for resources consumed</pre></p>
-
+<p>26. What is Cloud Computing?<br>
+Answer:Cloud computing is the delivery of computing services over the internet, allowing users to access 
+resources like servers, storage, databases, and applications on demand while paying only for what they use.</p>
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
 <h3>MODULE 1 — WHAT IS VIRTUALIZATION</h3><p>
 THE MAIN PROBLEM BEFORE VIRTUALIZATION WAS:Earlier:One company bought:1 physical server.But used:only 10–20% power.<br>
