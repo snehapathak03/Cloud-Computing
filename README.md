@@ -267,6 +267,21 @@ Spotify			Uses Google Cloud for some services
 Zoom			      Cloud-based communication platform
 Dropbox			Cloud storage service
 Amazon Prime Video	Uses AWS infrastructure</pre></p>
+<p>25. Basic Cloud Terminology<pre>
+Term			      Meaning
+Cloud			      Internet-based computing resources
+Server			A computer that provides services to clients
+Virtual Machine (VM)	Software-based computer running on physical hardware
+Data Center		      Facility containing servers and networking equipment
+Region			Geographic area containing cloud data centers
+Availability Zone (AZ)	Isolated data center(s) within a region for high availability
+Storage			Place where data is stored
+Database			Organized collection of data
+Network			Connects computers and cloud resources
+Scalability			Ability to increase or decrease resources
+Elasticity			Automatic scaling based on demand
+Pay-as-you-go		Pay only for resources consumed</pre></p>
+
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
 <h3>MODULE 1 — WHAT IS VIRTUALIZATION</h3><p>
 THE MAIN PROBLEM BEFORE VIRTUALIZATION WAS:Earlier:One company bought:1 physical server.But used:only 10–20% power.<br>
