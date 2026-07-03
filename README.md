@@ -243,6 +243,13 @@ Examples:Google App Engine,Azure App Service,AWS Elastic Beanstalk.<br>
 USES:Application development,API development,Web applications.<br>
 C) SaaS (Software as a Service):Provides ready-to-use software over the internet.Users simply log in and use the software.<br>
 Examples:Gmail,Microsoft 365,Google Docs,Zoom,Salesforce.</p>     
+<p>21.Difference Between IaaS, PaaS, and SaaS<pre>
+Feature		IaaS		      PaaS			      SaaS
+Infrastructure	Provided		Provided			Provided
+Operating System	Managed by User	Managed by Provider	Managed by Provider
+Runtime		User		      Provider			Provider
+Applications	User		      User			      Provider
+Examples		EC2		      Elastic Beanstalk		Gmail</pre></p>
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
 <h3>MODULE 1 — WHAT IS VIRTUALIZATION</h3><p>
 THE MAIN PROBLEM BEFORE VIRTUALIZATION WAS:Earlier:One company bought:1 physical server.But used:only 10–20% power.<br>
