@@ -250,6 +250,13 @@ Operating System	Managed by User	Managed by Provider	Managed by Provider
 Runtime		User		      Provider			Provider
 Applications	User		      User			      Provider
 Examples		EC2		      Elastic Beanstalk		Gmail</pre></p>
+<p>22. Why Companies Use Cloud?<br>
+Answer:Companies use cloud computing because it offers:Lower infrastructure costs,No hardware maintenance,Scalability,High availability,Global access,<br>
+Strong security,Automatic backup and disaster recovery,Faster deployment,Easy collaboration,Pay-as-you-go pricing.<br>
+23. Types of Cloud Services:The three main cloud service models are:<br>
+Infrastructure as a Service (IaaS) – Virtual infrastructure (servers, storage, networking).<br>
+Platform as a Service (PaaS) – Platform to build and deploy applications.<br>
+Software as a Service (SaaS) – Ready-to-use software delivered over the internet.</p>
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
 <h3>MODULE 1 — WHAT IS VIRTUALIZATION</h3><p>
 THE MAIN PROBLEM BEFORE VIRTUALIZATION WAS:Earlier:One company bought:1 physical server.But used:only 10–20% power.<br>
