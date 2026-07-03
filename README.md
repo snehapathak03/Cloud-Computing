@@ -257,6 +257,16 @@ Strong security,Automatic backup and disaster recovery,Faster deployment,Easy co
 Infrastructure as a Service (IaaS) – Virtual infrastructure (servers, storage, networking).<br>
 Platform as a Service (PaaS) – Platform to build and deploy applications.<br>
 Software as a Service (SaaS) – Ready-to-use software delivered over the internet.</p>
+<p>24. Real-World Examples of Cloud Computing<br><pre>
+Service	            Cloud Type
+Gmail			      SaaS
+Google Drive		SaaS
+Microsoft 365		SaaS
+Netflix			Runs on AWS cloud infrastructure
+Spotify			Uses Google Cloud for some services
+Zoom			      Cloud-based communication platform
+Dropbox			Cloud storage service
+Amazon Prime Video	Uses AWS infrastructure</pre></p>
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
 <h3>MODULE 1 — WHAT IS VIRTUALIZATION</h3><p>
 THE MAIN PROBLEM BEFORE VIRTUALIZATION WAS:Earlier:One company bought:1 physical server.But used:only 10–20% power.<br>
