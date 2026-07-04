@@ -301,6 +301,33 @@ Types are :Vertical Scaling (Scale Up/Down): Add or remove CPU, RAM, or storage 
 AND Horizontal Scaling (Scale Out/In): Add or remove multiple servers.<br>
 Example:An online shopping website adds more servers during a festival sale and removes them afterward to save costs.<br>
 Scalability is the capability of a cloud system to increase or decrease resources based on demand, ensuring consistent performance while optimizing costs.</p>
+<p>30.Breif Explanation<br>
+COMPUTE – Provides processing power to run applications.<br>
+STORAGE – Stores files, backups, images, videos, and other data.<br>
+DATABASES – Stores and manages structured or unstructured data.<br>
+NETWORKING – Enables secure communication between cloud resources and the internet.<br>
+SECURITY  & IDENTITY – Controls authentication, authorization, and access to AWS resources.<br>
+CLOUD COMPUTING: Delivering IT resources over the internet on demand.<br>
+AWS: Amazon's cloud computing platform.<br>
+TRADITIONAL vs CLOUD: Own hardware vs rent virtual infrastructure.<br>
+SERVER: A computer that provides services to other computers.<br>
+DATA CENTER: A facility containing servers, storage, networking, power, and cooling systems.<br>
+ADVANTAGES of AWS: Cost-effective, scalable, secure, reliable, globally available.<br>
+Why AWS: Lower cost, faster deployment, automatic scaling, managed services.<br>
+SCALABILITY: Ability to increase or decrease resources based on demand.<br>
+Pay-as-you-go: Pay only for the resources you actually use.<br>
+Five Basic AWS Service Categories: Compute, Storage, Database, Networking, and Security & Identity.<br>
+AZURE: Microsoft's cloud computing platform.<br>
+Google Cloud (GCP): Google's cloud platform for computing, storage, AI, and analytics.<br>
+AWS vs Azure vs GCP: AWS has the largest service portfolio, Azure excels with Microsoft integration and hybrid cloud, while GCP is known for AI, machine learning, and big data.<br>
+Public Cloud: Shared cloud services over the internet.<br>
+Private Cloud: Dedicated cloud for one organization.<br>
+Hybrid Cloud: Combination of public and private clouds.<br>
+Cloud Types: Public, Private, Hybrid.<br>
+Cloud Service Models: IaaS, PaaS, SaaS.<br>
+Scalability: Ability to increase or decrease resources based on demand.<br>
+Why Companies Use Cloud: Lower costs, scalability, security, faster deployment, and high availability.<br>
+Basic Cloud Flow: User → Internet → Cloud Provider → Servers → Database.</p>
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
 <h3>MODULE 1 — WHAT IS VIRTUALIZATION</h3><p>
 THE MAIN PROBLEM BEFORE VIRTUALIZATION WAS:Earlier:One company bought:1 physical server.But used:only 10–20% power.<br>
