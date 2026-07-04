@@ -287,6 +287,14 @@ resources like servers, storage, databases, and applications on demand while pay
 <p>27. Why Companies Use Cloud?<br>
 Answer:Companies choose cloud computing because it provides:Cost savings, Faster deployment, Scalability, High availability, Strong security, Automatic backups,<br>
 Global accessibility, Better collaboration, Reduced hardware management.</p>
+<p>28. Difference Between Public Cloud and Private Cloud<pre>
+Public Cloud		            Private Cloud
+Shared by multiple customers	      Dedicated to one organization
+Managed by cloud provider	      Managed by organization or provider
+Lower cost		                  Higher cost
+Highly scalable		            Limited by owned resources
+Accessible over the internet	      Access is more restricted
+Examples: AWS, Azure, GCP	      Organization's own cloud infrastructure</pre></p>
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
 <h3>MODULE 1 — WHAT IS VIRTUALIZATION</h3><p>
 THE MAIN PROBLEM BEFORE VIRTUALIZATION WAS:Earlier:One company bought:1 physical server.But used:only 10–20% power.<br>
