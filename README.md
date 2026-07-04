@@ -295,6 +295,12 @@ Lower cost		                  Higher cost
 Highly scalable		            Limited by owned resources
 Accessible over the internet	      Access is more restricted
 Examples: AWS, Azure, GCP	      Organization's own cloud infrastructure</pre></p>
+<p>29. What is Scalability?<br>
+Answer:Scalability is the ability of a system to increase or decrease computing resources according to workload or user demand.<br>
+Types are :Vertical Scaling (Scale Up/Down): Add or remove CPU, RAM, or storage from a single server. <br>
+AND Horizontal Scaling (Scale Out/In): Add or remove multiple servers.<br>
+Example:An online shopping website adds more servers during a festival sale and removes them afterward to save costs.<br>
+Scalability is the capability of a cloud system to increase or decrease resources based on demand, ensuring consistent performance while optimizing costs.</p>
 <h1> DAY 2 — VIRTUALIZATION, VMs & CONTAINERS</h1>
 <h3>MODULE 1 — WHAT IS VIRTUALIZATION</h3><p>
 THE MAIN PROBLEM BEFORE VIRTUALIZATION WAS:Earlier:One company bought:1 physical server.But used:only 10–20% power.<br>
