@@ -737,3 +737,16 @@ ENABLE SERVICE AT BOOT:sudo systemctl enable nginx<br>
 WHY IMPORTANT?<br>
 In DevOps:services constantly fail/restart/update.You must manage them efficiently.</p>
 
+MODULE 3 — LOGS IN LINUX
+Logs store:system events,errors,application activity
+SUPER IMPORTANT FOR TROUBLESHOOTING.
+
+MAIN LOG LOCATION
+/var/log
+VIEW LOGS
+cat /var/log/syslog
+REAL-TIME LOG MONITORING
+tail -f /var/log/syslog
+WHY LOGS IMPORTANT
+
+If server crashes:logs help identify problem.
