@@ -795,3 +795,17 @@ DevOps tools heavily use:
 environment variables
 secrets
 API keys
+
+MODULE 7 — FILE COMPRESSION & ARCHIVING
+Servers handle huge data.
+
+Compression saves:
+storage
+transfer time
+CREATE ZIP FILE:zip archive.zip file.txt
+EXTRACT ZIP:unzip archive.zip
+TAR FILES
+Very common in Linux.
+Create:tar -cvf backup.tar folder/
+Extract:tar -xvf backup.tar
+COMPRESSED TAR:tar -czvf backup.tar.gz folder/
