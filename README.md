@@ -809,3 +809,9 @@ Very common in Linux.
 Create:tar -cvf backup.tar folder/
 Extract:tar -xvf backup.tar
 COMPRESSED TAR:tar -czvf backup.tar.gz folder/
+
+MODULE 8 — PACKAGE MANAGEMENT DEEP DIVE
+UPDATE PACKAGES:sudo apt update
+UPGRADE SYSTEM:sudo apt upgrade
+REMOVE SOFTWARE:sudo apt remove nginx
+SEARCH PACKAGE:apt search docker
