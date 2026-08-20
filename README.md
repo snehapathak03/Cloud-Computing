@@ -748,5 +748,13 @@ cat /var/log/syslog
 REAL-TIME LOG MONITORING
 tail -f /var/log/syslog
 WHY LOGS IMPORTANT
-
 If server crashes:logs help identify problem.
+
+MODULE 4 — PROCESS MANAGEMENT
+VIEW RUNNING PROCESSES
+top  OR  htop
+
+Install htop:sudo apt install htop
+SEARCH PROCESS:ps aux | grep nginx
+KILL PROCESS:kill process_id
+Force kill:kill -9 process_id
