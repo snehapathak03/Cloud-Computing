@@ -758,3 +758,18 @@ Install htop:sudo apt install htop
 SEARCH PROCESS:ps aux | grep nginx
 KILL PROCESS:kill process_id
 Force kill:kill -9 process_id
+
+MODULE 5 — CRON JOBS
+Cron jobs schedule tasks automatically.
+Examples:backups,cleanup scripts,monitoring
+OPEN CRON:crontab -e
+
+EXAMPLE CRON JOB
+Run every day at 5 AM:0 5 * * * /home/ubuntu/script.sh
+CRON FORMAT
+Minute Hour Day Month Weekday
+
+COMMON EXAMPLES
+Every minute:
+* * * * *
+Every midnight:0 0 * * *
