@@ -773,3 +773,25 @@ COMMON EXAMPLES
 Every minute:
 * * * * *
 Every midnight:0 0 * * *
+
+MODULE 6 — ENVIRONMENT VARIABLES
+Environment variables store:
+system-wide values
+configurations
+
+VIEW VARIABLES
+printenv
+IMPORTANT VARIABLES
+Variable	Purpose
+PATH	Command paths
+HOME	User home directory
+USER	Current user
+CREATE VARIABLE
+export NAME="Sneha"
+
+Check:echo $NAME
+WHY IMPORTANT?
+DevOps tools heavily use:
+environment variables
+secrets
+API keys
