@@ -846,3 +846,6 @@ Add:* * * * * echo "Hello" >> /home/$USER/test.log
 Wait 1 minute.
 Check:
 cat ~/test.log
+TASK 4 — CREATE ENV VARIABLE
+export CLOUD="AWS"
+echo $CLOUD
