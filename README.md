@@ -840,3 +840,9 @@ Install nginx:sudo apt install nginx
 Practice:sudo systemctl stop nginx
 sudo systemctl start nginx
 sudo systemctl restart nginx
+TASK 3 — CREATE CRON JOB
+Open:crontab -e
+Add:* * * * * echo "Hello" >> /home/$USER/test.log
+Wait 1 minute.
+Check:
+cat ~/test.log
