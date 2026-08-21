@@ -849,3 +849,12 @@ cat ~/test.log
 TASK 4 — CREATE ENV VARIABLE
 export CLOUD="AWS"
 echo $CLOUD
+TASK 5 — CREATE BACKUP
+tar -czvf projects_backup.tar.gz projects/
+YOUTUBE VIDEOS FOR TODAY
+SSH Explained
+SSH Tutorial for Beginners
+Linux Services
+systemctl and systemd Explained
+Cron Jobs
+Cron Jobs Tutorial Linux
