@@ -829,3 +829,9 @@ CHECK CPU & MEMORY
 top:free -h
 CHECK STORAGE:df -h
 CHECK UPTIME:uptime
+
+PRACTICAL TASKS
+TASK 1 — INSTALL HTOP
+sudo apt install htop
+Run:htop
+Observe:CPU,RAM,processes
