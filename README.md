@@ -835,3 +835,8 @@ TASK 1 — INSTALL HTOP
 sudo apt install htop
 Run:htop
 Observe:CPU,RAM,processes
+TASK 2 — SERVICE MANAGEMENT
+Install nginx:sudo apt install nginx
+Practice:sudo systemctl stop nginx
+sudo systemctl start nginx
+sudo systemctl restart nginx
