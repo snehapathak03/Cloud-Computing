@@ -815,3 +815,17 @@ UPDATE PACKAGES:sudo apt update
 UPGRADE SYSTEM:sudo apt upgrade
 REMOVE SOFTWARE:sudo apt remove nginx
 SEARCH PACKAGE:apt search docker
+
+MODULE 9 — BASIC SERVER ADMINISTRATION
+Daily tasks of Linux admin:
+✅ Checking CPU
+✅ Checking RAM
+✅ Monitoring logs
+✅ Restarting services
+✅ Managing users
+✅ Updating system
+✅ Backups
+CHECK CPU & MEMORY
+top:free -h
+CHECK STORAGE:df -h
+CHECK UPTIME:uptime
