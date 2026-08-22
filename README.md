@@ -874,3 +874,21 @@ Q2 Which directory stores logs?
 Answer:/var/log
 Q3 Which command schedules tasks?
 Answer:crontab
+DAY 6 — BASH SHELL SCRIPTING & AUTOMATION
+MODULE 1 — WHAT IS SHELL SCRIPTING?
+A shell script is:A file containing Linux commands executed automatically.
+Instead of typing:
+sudo apt update
+sudo apt upgrade
+df -h
+free -h
+every day,you write them once inside a script.Linux executes everything automatically.
+
+WHY DEVOPS ENGINEERS USE SHELL SCRIPTS
+Automation tasks:
+Server health checks
+Backups
+Log cleanup
+Monitoring
+Deployments
+User management
