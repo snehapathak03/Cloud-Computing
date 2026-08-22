@@ -867,3 +867,10 @@ What are cron jobs?
 Where are Linux logs stored?
 Difference between zip and tar?
 What are environment variables?
+MINI QUIZ
+Q1 Which command manages Linux services?
+Answer:systemctl
+Q2 Which directory stores logs?
+Answer:/var/log
+Q3 Which command schedules tasks?
+Answer:crontab
