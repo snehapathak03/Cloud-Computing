@@ -892,3 +892,22 @@ Log cleanup
 Monitoring
 Deployments
 User management
+
+MODULE 2 — CREATE YOUR FIRST SCRIPT
+Create file:nano first.sh
+Write:#!/bin/bash
+echo "Hello Sneha"
+echo "Welcome to Bash Scripting"
+
+Save and exit.
+
+GIVE EXECUTE PERMISSION
+chmod +x first.sh
+Run:./first.sh
+Output:
+Hello Sneha
+Welcome to Bash Scripting
+IMPORTANT LINE
+#!/bin/bash
+Called:Shebang
+Tells Linux:Execute this script using Bash.
