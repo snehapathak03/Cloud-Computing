@@ -925,3 +925,13 @@ CLOUD="AWS"
 
 echo $CITY
 echo $CLOUD
+
+MODULE 4 — USER INPUT
+Take input from user.
+#!/bin/bash
+echo "Enter your name"
+read NAME
+echo "Hello $NAME"
+PRACTICE
+Create script:Enter your city
+Then print:Welcome from Nagpur
