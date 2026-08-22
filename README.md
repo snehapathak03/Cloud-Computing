@@ -858,3 +858,12 @@ Linux Services
 systemctl and systemd Explained
 Cron Jobs
 Cron Jobs Tutorial Linux
+INTERVIEW QUESTIONS
+What is SSH?
+Why SSH keys are better than passwords?
+What is systemctl?
+What is a Linux service?
+What are cron jobs?
+Where are Linux logs stored?
+Difference between zip and tar?
+What are environment variables?
