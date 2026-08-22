@@ -911,3 +911,17 @@ IMPORTANT LINE
 #!/bin/bash
 Called:Shebang
 Tells Linux:Execute this script using Bash.
+MODULE 3 — VARIABLES
+Variables store data.
+Example:#!/bin/bash
+NAME="Sneha"
+echo $NAME
+Output:
+Sneha
+
+MULTIPLE VARIABLES
+CITY="Nagpur"
+CLOUD="AWS"
+
+echo $CITY
+echo $CLOUD
