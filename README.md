@@ -1019,3 +1019,17 @@ do
     echo $COUNT
     COUNT=$((COUNT+1))
 done
+
+MODULE 10 — FUNCTIONS
+Functions avoid duplicate code.
+BASIC FUNCTION
+greet() {
+    echo "Hello AWS Engineer"
+}
+greet
+FUNCTION WITH PARAMETER
+welcome() {
+    echo "Welcome $1"
+}
+welcome Sneha
+Output:Welcome Sneha
