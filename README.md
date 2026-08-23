@@ -944,3 +944,37 @@ echo $DATE
 GET CURRENT USER
 USER=$(whoami)
 echo $USER
+
+MODULE 6 — IF CONDITIONS
+VERY IMPORTANT
+BASIC IF
+#!/bin/bash
+NUM=10
+if [ $NUM -gt 5 ]
+then
+    echo "Greater"
+fi
+COMPARISON OPERATORS
+Operator	Meaning
+-eq	Equal
+-ne	Not Equal
+-gt	Greater Than
+-lt	Less Than
+-ge	Greater or Equal
+-le	Less or Equal
+IF ELSE
+AGE=18
+if [ $AGE -ge 18 ]
+then
+    echo "Adult"
+else
+    echo "Minor"
+fi
+INTERVIEW QUESTION
+Difference:
+=
+and
+-eq
+Answer:
+= → String comparison
+-eq → Numeric comparison
