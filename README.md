@@ -935,3 +935,12 @@ echo "Hello $NAME"
 PRACTICE
 Create script:Enter your city
 Then print:Welcome from Nagpur
+
+MODULE 5 — COMMAND SUBSTITUTION
+Store command output.
+Example:
+DATE=$(date)
+echo $DATE
+GET CURRENT USER
+USER=$(whoami)
+echo $USER
