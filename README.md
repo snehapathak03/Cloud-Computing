@@ -1011,3 +1011,11 @@ do
     echo $file
 done
 Useful in automation.
+
+MODULE 9 — WHILE LOOP
+COUNT=1
+while [ $COUNT -le 5 ]
+do
+    echo $COUNT
+    COUNT=$((COUNT+1))
+done
