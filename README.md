@@ -991,3 +991,23 @@ then
 else
     echo "C Grade"
 fi
+
+MODULE 8 — FOR LOOPS
+Loops execute repeatedly.
+EXAMPLE
+for i in 1 2 3 4 5
+do
+    echo $i
+done
+Output:
+1
+2
+3
+4
+5
+LOOP THROUGH FILES
+for file in *
+do
+    echo $file
+done
+Useful in automation.
