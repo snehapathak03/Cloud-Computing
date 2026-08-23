@@ -978,3 +978,16 @@ and
 Answer:
 = → String comparison
 -eq → Numeric comparison
+
+MODULE 7 — NESTED CONDITIONS
+MARKS=85
+if [ $MARKS -ge 90 ]
+then
+    echo "A Grade"
+
+elif [ $MARKS -ge 75 ]
+then
+    echo "B Grade"
+else
+    echo "C Grade"
+fi
