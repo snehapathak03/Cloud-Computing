@@ -1063,3 +1063,28 @@ echo "Disk:"
 df -h
 
 Run:./systeminfo.sh
+
+MODULE 13 — AUTOMATION EXAMPLE
+Daily Health Check Script
+#!/bin/bash
+echo "===== SERVER HEALTH ====="
+date
+echo "Memory Usage"
+free -h
+echo "Disk Usage"
+df -h
+echo "Running Processes"
+ps aux | wc -l
+MINI PROJECT 1
+
+Create:backup.sh
+
+Requirements:
+Create backup folder
+Copy notes.txt
+Add current date
+
+Hint:
+mkdir backup
+cp notes.txt backup/
+date
