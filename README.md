@@ -1096,3 +1096,14 @@ If username equals admin:
 Access Granted
 Otherwise:
 Access Denied
+PRACTICAL TASKS
+Task 1
+Create:hello.sh
+Print:Hello AWS
+
+Task 2
+Create:userinfo.sh
+Print:
+Username
+Date
+Hostname
