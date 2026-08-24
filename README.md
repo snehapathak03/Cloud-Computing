@@ -1049,3 +1049,17 @@ if [ -d "/home" ]
 then
     echo "Directory Exists"
 fi
+
+MODULE 12 — SYSTEM INFORMATION SCRIPT
+Create:nano systeminfo.sh
+Write:#!/bin/bash
+echo "Current User:"
+whoami
+echo "Hostname:"
+hostname
+echo "Memory:"
+free -h
+echo "Disk:"
+df -h
+
+Run:./systeminfo.sh
