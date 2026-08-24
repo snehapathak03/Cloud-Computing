@@ -1033,3 +1033,19 @@ welcome() {
 }
 welcome Sneha
 Output:Welcome Sneha
+
+MODULE 11 — FILE CHECKING
+Very useful in DevOps.
+CHECK FILE EXISTS
+FILE="notes.txt"
+if [ -f "$FILE" ]
+then
+    echo "File Exists"
+else
+    echo "Not Found"
+fi
+CHECK DIRECTORY EXISTS
+if [ -d "/home" ]
+then
+    echo "Directory Exists"
+fi
