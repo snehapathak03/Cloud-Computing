@@ -1107,3 +1107,15 @@ Print:
 Username
 Date
 Hostname
+
+Task 3
+Create:numbers.sh
+Use loop:
+1
+2
+3
+...
+10
+Task 4
+Create:diskcheck.sh
+Show:df -h
