@@ -1088,3 +1088,11 @@ Hint:
 mkdir backup
 cp notes.txt backup/
 date
+MINI PROJECT 2
+Create Login Script
+Enter Username:
+Enter Password:
+If username equals admin:
+Access Granted
+Otherwise:
+Access Denied
